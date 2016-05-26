@@ -1,8 +1,8 @@
 # Freshwater-database 
 
-A microbial database with a taxonomy focused on the typical freswater clades (built by Didier Debroas)
+A microbial database with a taxonomy focused on the typical freshwater clades (built by Didier Debroas)
 
-This dabase was craeted from SILVA NR115 for bacteria and archaea and NR108 fod eukaryotes  (Pruesse et al., 2007).16S and 18S sequences were extracted from the SSURef SILVA database according to the following criteria: length > 1,200 bp, quality score >75% and a pintail value > 50. In addition, the taxonomy of this reference database was modified to take account for the typical freshwater lineages defined in the following works:
+This dabase was craeted from SILVA NR115 for bacteria and archaea and NR108 for eukaryotes  (Pruesse et al., 2007). 16S and 18S sequences were extracted from the SSURef SILVA database according to the following criteria: length > 1,200 bp, quality score >75% and a pintail value > 50. In addition, the taxonomy of this reference database was modified to take account for the typical freshwater lineages defined in the following works:
 Bacteria: 
 
 Newton RJ, Jones SE, Eiler A, McMahon KD, Bertilsson S. (2011). A Guide to the Natural History of Freshwater Lake Bacteria. Microbiol Mol Biol Rev 75:14–49.
