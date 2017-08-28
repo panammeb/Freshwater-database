@@ -26,3 +26,6 @@ DQ244037	Eukaryota;Alveolata;Perkinsea;Perkinsea_2;	Alveolata
 These sequences can be found in the fasta files in the forder:  ../bd_ssrna/Reference_all/Reference_bases/Reference_base_(bacteria|archaea|eukaryota).fasta
 
 With the hmmer profiles and aligned sequences included in this repository, this dabase can be used with PANAM or for a sequence similarity searching  (BLAST, vsearch...)
+
+
+v1.1: Miscrosporidia annotation has been updated by Aurore Dubuffet (Assistant professor - LMGE)
