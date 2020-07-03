@@ -27,5 +27,5 @@ These sequences can be found in the fasta files in the forder:  ../bd_ssrna/Refe
 
 With the hmmer profiles and aligned sequences included in this repository, this dabase can be used with PANAM or for a sequence similarity searching  (BLAST, vsearch...)
 
+Miscrosporidia annotation (taxonomy, alignements and clade definition) has been updated and maintained by Aurore Dubuffet (Assistant professor - LMGE). Last update 7/3/2020
 
-v1.1: Miscrosporidia annotation has been updated by Aurore Dubuffet (Assistant professor - LMGE)
